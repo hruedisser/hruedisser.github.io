@@ -2,96 +2,147 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hannah Theresa Rüdisser
     - name: Date of Birth
-      value: 14th March 1879
+      value: 4th January 1997
     - name: Languages
       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Physics
+      institution: University of Graz, Graz, Austria
+      year: 2022-present
+      description: 
+        - Combining AI and Physical Models to advance Forecasting of Solar Coronal Mass Ejections
+        - <u>Supervisor:</u> Helmut Lammer, Christian Möstl
+
+    - title: Master of Science in Theoretical and Computational Physics
+      institution: University of Graz, Graz, Austria
+      year: 2020-2022
+      description: 
+        - Graduated with distinction
+        - Deep Learning for the Automatic Detection of Interplanetary Coronal Mass Ejections
+        - <u>Supervisor:</u> Ute V. Amerstorfer, Andreas Windisch
+
+    - title: Exchange Semester (ISEP)
+      institution: University of Kentucky, Lexington, Kentucky
+      year: 2019
+
+    - title: Bachelor of Science in Physics
+      institution: University of Graz, Graz, Austria
+      year: 2015-2020
+      description: 
+        - Online Gaussian Process Regression
+        - <u>Supervisor:</u> Wolfgang von der Linden, Sascha Ranftl
+     
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher
+      institution: Frontier Development Lab
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - <u>Vigil 2.0:</u> Tip and Cue for Solar Eruptions Team
+        - Trillium Technologies
+        - FDL Europe - Earth Systems Lab 2024
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: PhD Student
+      institution: Austrian Space Weather Office, GeoSphere Austria, Graz, Austria
+      year: 2022-present
+      description: 
+        - Combining AI and Physical Models to advance Forecasting of Solar Coronal Mass Ejections
+        - <u>Supervisor:</u> Helmut Lammer, Christian Möstl
+        - ERC, HELIO4CAST 101042188
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Riding Instructor and Horse Trainer
+      institution: Self-employed
+      year: 2018-2023
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Junior Researcher
+      institution: Know-Center GmbH, Graz, Austria
+      year: 2020-2022
+      description: 
+        - Time Series Event Detection for different use cases using Machine Learning
+        - <u>Supervisor:</u> Andreas Windisch
+        - Europlanet 2024 RI, 871149
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Sales Assistant
+      institution: Krämer Pferdesport GmbH & Co KG, Graz
+      year: 2020
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Cashier
+      institution: Lidl Österreich
+      year: 2018-2019
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Student Intern
+      institution: Space Research Institute, Austrian Academy of Sciences, Graz, Austria
+      year: 2018
+      description: 
+        - Colorado Ultraviolet Transit Experiment Data Simulator
+        - <u>Supervisor:</u> Luca Fossati, Aickara Gopinathan Sreejith
+        - FEMtech Summer Internship
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Student Intern
+      institution: Space Research Institute, Austrian Academy of Sciences, Graz, Austria
+      year: 2017
+      description: 
+        - Instrumental Meteorological Record for Styrian Village from 1819 to 1821
+        - <u>Supervisor:</u> Bruno P. Besser
+        - FEMtech Summer Internship
+
+    - title: Deliverer
+      institution: Österreichische Post AG, Graz, Austria
+      year: 2016-2017
+
+    - title: Intern
+      institution: Dressur und Ausbildungsstall Langehanenberg, Billerbeck, Germany
+      year: 2015
+
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Reviewer work
+#   type: time_table
+#   contents:
+#     - year: 2022
+#       items:
+#         - NEURIPS
+
+     
+#     - year: 2021
+#       items: 
+#         - Elsevier , Computer and electronics in agriculture
+#         - ICLR , mentee reviewer
+
+#     - year: 2020
+#       items: 
+#         - IEEE , CVPR Workshop on computer vision for agriculture
+#         - PLOS ONE , PLOS ONE journal paper
+#         - IEEE , IEEE Image processing
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Computer vision.
+#       items: 
+#         - 3D multi-modal vision.
+#         - Single view reconstruction with parametric models.
+#         - Simulation-driven learning.
+#         - Neural field and implicit representation.
+    # - title: Machine learning.
+    #   items:
+    #     - Description 1.
+    #     - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hiking, Mountain biking, Powerlifting, Drawing, Reading, Video game development
