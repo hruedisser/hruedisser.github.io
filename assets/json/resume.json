@@ -1,19 +1,26 @@
 {
   "basics": {
-    "name": "Hannah Theresa Rüdisser",
-    "label": "PhD Student",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "hannah@ruedisser.at",
-    "phone": "+43",
-    "url": "",
-    "summary": "",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "Reininghausstraße 3",
-      "postalCode": "8044",
-      "city": "Graz",
-      "countryCode": "AT",
-      "region": "Styria"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "work": [
     {
