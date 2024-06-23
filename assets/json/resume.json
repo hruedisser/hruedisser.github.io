@@ -26,23 +26,90 @@
     {
       "name": "Frontier Development Lab (FDL) Europe - Earth Systems Lab 2024",
       "position": "Researcher",
-      "url": "",
+      "url": "https://fdleurope.org/fdl-europe-2024",
       "startDate": "2024-06-01",
       "summary": "Vigil 2.0: Tip And Cue for Solar Eruptions Team",
       "highlights": ["Trillium Technologies"]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "name": "Austrian Space Weather Office, GeoSphere Austria",
+      "location": "Graz, Austria",
+      "position": "PhD Student",
+      "url": "https://helioforecast.space",
+      "startDate": "2022-10-01",
+      "summary": "Combining AI and Physical Models to advance Forecasting of Solar Coronal Mass Ejections",
+      "highlights": ["Supervisors: Helmut Lammer, Christian Möstl", "ERC, HELIO4CAST, 101042188"]
+    },
+    {
+      "name": "Self-employed",
+      "position": "Riding Instructor and Horse Trainer",
+      "url": "https://helioforecast.space",
+      "startDate": "2018-01-01",
+      "endDate": "2023-08-01",
+      "summary": ""
+    },
+    {
+      "name": "Know-Center GmbH",
+      "location": "Graz, Austria",
+      "position": "Junior Researcher",
+      "url": "https://www.know-center.at/en/",
+      "startDate": "2020-08-01",
+      "endDate": "2022-12-01",
+      "summary": "Time Series Event Detection for different use cases using Machine Learning"
+      "highlights": ["Supervisor: Andreas Windisch", "Europlanet 2024 RI, 871149"]
+    },
+    {
+      "name": "Krämer Pferdesport GmbH und Co KG",
+      "location": "Graz, Austria",
+      "position": "Sales Assistant",
+      "startDate": "2020-05-01",
+      "endDate": "2020-12-01",
+      "summary": ""
+    },
+    {
+      "name": "Lidl Austria",
+      "location": "Graz, Austria",
+      "position": "Cashier",
+      "startDate": "2018-11-01",
+      "endDate": "2019-07-01",
+      "summary": ""
+    },
+    {
+      "name": "Space Research Institute, Austrian Academy of Sciences",
+      "location": "Graz, Austria",
+      "position": "Student Intern",
+      "url": "",
+      "startDate": "2018-07-01",
+      "endDate": "2018-08-01",
+      "summary": "Colorado Ultraviolet Transit Experiment Data Simulator"
+      "highlights": ["Supervisors: Luca Fossati, Aickara Gopinathan Sreejith", "FEMtech Summer Internship"]
+    },
+    {
+      "name": "Space Research Institute, Austrian Academy of Sciences",
+      "location": "Graz, Austria",
+      "position": "Student Intern",
+      "url": "",
+      "startDate": "2017-07-01",
+      "endDate": "2017-08-01",
+      "summary": "Instrumental Meteorological Record for Styrian Village from 1819 to 1821"
+      "highlights": ["Supervisors: Bruno P. Besser", "FEMtech Summer Internship"]
+    },
+    {
+      "name": "Österreichische Post AG",
+      "location": "Graz, Austria",
+      "position": "Deliverer",
+      "startDate": "2016-07-01",
+      "endDate": "2017-07-01",
+      "summary": ""
+    },
+    {
+      "name": "Dressur und Ausbildungsstall Langehanenberg",
+      "location": "Billerbeck, Germany",
+      "position": "Intern",
+      "startDate": "2015-07-01",
+      "endDate": "2015-09-01",
+      "summary": ""
+    },
   ],
   "education": [
     {
