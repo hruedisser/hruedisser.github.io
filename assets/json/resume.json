@@ -4,7 +4,7 @@
     "label": "PhD Student",
     "image": "",
     "email": "hannah@ruedisser.at",
-    "phone": "",
+    "phone": "+43",
     "url": "",
     "summary": "",
     "location": {
@@ -20,8 +20,8 @@
       "name": "Frontier Development Lab",
       "position": "Researcher",
       "url": "",
-      "startDate": "2024-06",
-      "endDate": "present",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-01",
       "summary": "Vigil 2.0: Tip And Cue for Solar Eruptions Team",
       "highlights": ["Trillium Technologies", "FDL Europe - Earth Systems Lab 2024"]
     }
