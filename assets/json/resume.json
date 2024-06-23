@@ -1,24 +1,24 @@
 {
   "basics": {
     "name": "Hannah Theresa Rüdisser",
-    "label": "Scientist",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "hannah@ruedisser.at",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://hruedisser.github.io",
     "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Neusitzstrasse 15a",
+      "postalCode": "8044",
+      "city": "Graz",
+      "countryCode": "AT",
+      "region": "Styria"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "hannahruedisser",
+        "url": "https://twitter.com/hannahruedisser"
       }
     ]
   },
