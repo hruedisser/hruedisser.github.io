@@ -56,8 +56,54 @@
       "url": "https://www.know-center.at/en/",
       "startDate": "2020-08-01",
       "endDate": "2022-12-01",
-      "summary": "Time Series Event Detection for different use cases using Machine Learning"
+      "summary": "Time Series Event Detection for different use cases using Machine Learning",
       "highlights": ["Supervisor: Andreas Windisch", "Europlanet 2024 RI, 871149"]
+    },
+    {
+      "name": "Krämer Pferdesport GmbH und Co KG",
+      "position": "Sales Assistant",
+      "startDate": "2020-05-01",
+      "endDate": "2020-12-01",
+      "summary": ""
+    },
+    {
+      "name": "Lidl Austria",
+      "position": "Cashier",
+      "startDate": "2018-11-01",
+      "endDate": "2019-07-01",
+      "summary": ""
+    },
+    {
+      "name": "Space Research Institute, Austrian Academy of Sciences",
+      "position": "Student Intern",
+      "url": "",
+      "startDate": "2018-07-01",
+      "endDate": "2018-08-01",
+      "summary": "Colorado Ultraviolet Transit Experiment Data Simulator",
+      "highlights": ["Supervisors: Luca Fossati, Aickara Gopinathan Sreejith", "FEMtech Summer Internship"]
+    },
+    {
+      "name": "Space Research Institute, Austrian Academy of Sciences",
+      "position": "Student Intern",
+      "url": "",
+      "startDate": "2017-07-01",
+      "endDate": "2017-08-01",
+      "summary": "Instrumental Meteorological Record for Styrian Village from 1819 to 1821",
+      "highlights": ["Supervisors: Bruno P. Besser", "FEMtech Summer Internship"]
+    },
+    {
+      "name": "Österreichische Post AG",
+      "position": "Deliverer",
+      "startDate": "2016-07-01",
+      "endDate": "2017-07-01",
+      "summary": ""
+    },
+    {
+      "name": "Dressur und Ausbildungsstall Langehanenberg",
+      "position": "Intern",
+      "startDate": "2015-07-01",
+      "endDate": "2015-09-01",
+      "summary": ""
     }
   ],
   "volunteer": [
