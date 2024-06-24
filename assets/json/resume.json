@@ -128,6 +128,17 @@
       "endDate": "2022-10-01",
       "score": "",
       "courses": ["Graduated with Distinction", "Supervisors: Ute V. Amerstorfer, Andreas Windisch"]
+    },
+    {
+      "institution": "University of Graz",
+      "location": "Graz, Austria",
+      "url": "https://www.uni-graz.at/en/",
+      "area": "Online Gaussian Process Regression",
+      "studyType": "Bachelor of Science in Physics",
+      "startDate": "2015-10-01",
+      "endDate": "2020-03-01",
+      "score": "",
+      "courses": ["Supervisors: Wolfgang von der Linden, Sascha Ranftl"]
     }
   ],
   "awards": [
@@ -171,12 +182,17 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "Native proficiency",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Full professional proficiency",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic proficiency",
       "icon": ""
     }
   ],
@@ -188,28 +204,6 @@
         "Quantum Mechanics",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
