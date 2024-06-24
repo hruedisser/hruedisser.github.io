@@ -33,7 +33,7 @@
       "highlights": ["Trillium Technologies"]
     },
     {
-      "name": "Austrian Space Weather Office, GeoSphere Austria",
+      "name": "Austrian Space Weather Office, GeoSphere Austria, Graz, Austria",
       "position": "PhD Student",
       "url": "https://helioforecast.space",
       "startDate": "2022-10-01",
@@ -49,6 +49,15 @@
       "endDate": "2023-08-01",
       "summary": "",
        "highlights": []
+    },
+    {
+      "name": "Know-Center GmbH, Graz, Austria",
+      "position": "Junior Researcher",
+      "url": "https://www.know-center.at/en/",
+      "startDate": "2020-08-01",
+      "endDate": "2022-12-01",
+      "summary": "Time Series Event Detection for different use cases using Machine Learning"
+      "highlights": ["Supervisor: Andreas Windisch", "Europlanet 2024 RI, 871149"]
     }
   ],
   "volunteer": [
