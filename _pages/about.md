@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 Space Weather, Heliophysics and AI Enthusiast 💻🔭🛰️📊 
 
-After finishing my master's degree in theoretical and computational physics with a focus on AI for time series event detection, I joined the [Austrian Space Weather Office](https://helioforecast.space) for a PhD in Heliophysics.
+After finishing my master's degree in theoretical and computational physics with a focus on AI for time series event detection, I joined the [Austrian Space Weather Office](https://helioforecast.space) for a PhD in Heliophysics. I am interested in understanding the global magnetic field structure of CMEs, as well as integrating AI with physical models to improve space weather forecast.
