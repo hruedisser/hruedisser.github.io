@@ -130,6 +130,17 @@
       "courses": ["Graduated with Distinction", "Supervisors: Ute V. Amerstorfer, Andreas Windisch"]
     },
     {
+      "institution": "University of Kentucky",
+      "location": "Lexington, Kentucky",
+      "url": "https://www.uky.edu/",
+      "area": "International Student Exchange Program (ISEP)",
+      "studyType": "Exchange Semester",
+      "startDate": "2019-07-25",
+      "endDate": "2019-12-15",
+      "score": "",
+      "courses": ["Machine Learning", "Interaction of Radiation with Matter", "Stars, Galaxies and the Universe"]
+    },
+    {
       "institution": "University of Graz",
       "location": "Graz, Austria",
       "url": "https://www.uni-graz.at/en/",
