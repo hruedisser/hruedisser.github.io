@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by year.
+description: peer-reviewed publications by year.
 nav: true
 nav_order: 2
 ---
@@ -18,5 +18,3 @@ nav_order: 2
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
-
-</div>
