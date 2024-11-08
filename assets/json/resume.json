@@ -24,6 +24,15 @@
   },
   "work": [
     {
+      "name": "ONERA - The French Aerospace Lab, Toulouse, France",
+      "position": "Visiting Researcher",
+      "url": "https://www.onera.fr/en",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "name": "Frontier Development Lab (FDL) Europe - Earth Systems Lab 2024",
       "position": "Researcher",
       "url": "https://fdleurope.org/fdl-europe-2024",
@@ -60,21 +69,21 @@
       "highlights": ["Supervisor: Andreas Windisch", "Europlanet 2024 RI, 871149"]
     },
     {
-      "name": "Krämer Pferdesport GmbH und Co KG",
+      "name": "Krämer Pferdesport GmbH und Co KG, Graz, Austria",
       "position": "Sales Assistant",
       "startDate": "2020-05-01",
       "endDate": "2020-12-01",
       "summary": ""
     },
     {
-      "name": "Lidl Austria",
+      "name": "Lidl Austria, Graz, Austria",
       "position": "Cashier",
       "startDate": "2018-11-01",
       "endDate": "2019-07-01",
       "summary": ""
     },
     {
-      "name": "Space Research Institute, Austrian Academy of Sciences",
+      "name": "Space Research Institute, Austrian Academy of Sciences, Graz, Austria",
       "position": "Student Intern",
       "url": "",
       "startDate": "2018-07-01",
@@ -83,7 +92,7 @@
       "highlights": ["Supervisors: Luca Fossati, Aickara Gopinathan Sreejith", "FEMtech Summer Internship"]
     },
     {
-      "name": "Space Research Institute, Austrian Academy of Sciences",
+      "name": "Space Research Institute, Austrian Academy of Sciences, Graz, Austria",
       "position": "Student Intern",
       "url": "",
       "startDate": "2017-07-01",
@@ -92,14 +101,14 @@
       "highlights": ["Supervisor: Bruno P. Besser", "FEMtech Summer Internship"]
     },
     {
-      "name": "Österreichische Post AG",
+      "name": "Österreichische Post AG, Graz, Austria",
       "position": "Deliverer",
       "startDate": "2016-07-01",
       "endDate": "2017-07-01",
       "summary": ""
     },
     {
-      "name": "Dressur und Ausbildungsstall Langehanenberg",
+      "name": "Dressur und Ausbildungsstall Langehanenberg, Billerbeck, Germany",
       "position": "Intern",
       "startDate": "2015-07-01",
       "endDate": "2015-09-01",
