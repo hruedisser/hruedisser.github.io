@@ -178,14 +178,13 @@
       "icon": ""
     }
   ],
-  "certificates": [
+  "awards": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-thumbtack"
-    
+      "title": "Award",
+      "date": "1921-11-01",
+      "awarder": "awarder",
+      "url": "",
+      "summary": "summary"
     }
-  ],
+  ]
 }
