@@ -180,9 +180,8 @@
   ],
   "scholarships": [
     {
-      "title": "Award",
+      "name": "Award",
       "date": "1921-11-01",
-      "awarder": "awarder",
       "url": "",
       "summary": "summary"
     }
