@@ -191,7 +191,7 @@
       "date": "2024",
       "awarder": "International Office at the University of Graz",
       "url": "",
-      "summary": "Received the Grant for Self-Organized Stays from the International Office at the University of Graz (2024, 1645€)"
+      "summary": "Received a Grant for Self-Organized Stays from the International Office at the University of Graz (2024, 1645€)"
     },
     {
       "title": "Grant for Travel Expenses",
@@ -206,6 +206,15 @@
       "awarder": "",
       "url": "",
       "summary": "Received a 3.5 fully funded PhD Studentship within a Consolidator Grant by the European Research Council (PI Christian Möstl)"
+    }
+  ],
+  "talks": [
+    {
+      "name": "3DCOREweb: Reconstruct CMEs using the "3D Coronal Rope Ejection Model",
+      "publisher": "Triennial Earth-Sun Summit (TESS) (7–12 April 2024), Dallas, TX USA",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
     }
   ]
 }
