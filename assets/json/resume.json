@@ -140,7 +140,7 @@
     },
     {
       "institution": "University of Kentucky",
-      "location": "Lexington, Kentucky",
+      "location": "Lexington, KY USA",
       "url": "https://www.uky.edu/",
       "area": "International Student Exchange Program (ISEP)",
       "studyType": "Exchange Semester",
@@ -210,67 +210,85 @@
   ],
   "talks": [
     {
-      "name": "3DCOREweb: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'",
-      "publisher": "Triennial Earth-Sun Summit (TESS) (7–12 April 2024), Dallas, TX USA",
-      "releaseDate": "2024",
+      "name": "Conference Talk",
+      "publisher": "Triennial Earth-Sun Summit (TESS)",
+      "location": "Dallas, TX USA",
+      "startDate": "2024-04-07",
+      "endDate": "2024-04-12",
       "url": "",
-      "summary": ""
+      "summary": "3DCOREweb: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'"
     },
     {
-      "name": "Modeling CMEs as Large Scale Magnetic Flux Ropes",
-      "publisher": "ÖGAA Austrian Early Career Conference (8–9 March 2024), Salzburg, Austria",
-      "releaseDate": "2024",
+      "name": "Conference Talk",
+      "publisher": "ÖGAA Austrian Early Career Conference",
+      "location": "Salzburg, Austria",
+      "startDate": "2024-03-08",
+      "endDate": "2024-03-09",
       "url": "",
-      "summary": ""
+      "summary": "Modeling CMEs as Large Scale Magnetic Flux Ropes"
     },
     {
-      "name": "3DCOREapp: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'",
-      "publisher": "European Space Weather Week (20–24 November 2023), Toulouse, France",
-      "releaseDate": "2023",
+      "name": "Conference Talk",
+      "publisher": "European Space Weather Week",
+      "location": "Toulouse, France",
+      "startDate": "2023-11-20",
+      "endDate": "2023-11-24",
       "url": "",
-      "summary": ""
+      "summary": "3DCOREapp: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'"
     },
     {
-      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data",
-      "publisher": "EGU General Assembly (23–28 April 2023), Vienna, Austria",
-      "releaseDate": "2023",
+      "name": "Conference Talk",
+      "publisher": "EGU General Assembly",
+      "location": "Vienna, Austria",
+      "startDate": "2023-04-23",
+      "endDate": "2023-04-28",
       "url": "",
-      "summary": ""
+      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data"
     },
     {
-      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections",
-      "publisher": "Machine Learning and Computer Vision in Heliophysics (19–21 April 2023), Sofia, Bulgaria",
-      "releaseDate": "2023",
+      "name": "Conference Talk",
+      "publisher": "Machine Learning and Computer Vision in Heliophysics",
+      "location": "Sofia, Bulgaria",
+      "startDate": "2023-04-19",
+      "endDate": "2023-04-21",
       "url": "",
-      "summary": ""
+      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections"
     },
     {
-      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data",
-      "publisher": "European Space Weather Week (24–28 October 2022), Zagreb, Croatia",
-      "releaseDate": "2022",
+      "name": "Conference Talk",
+      "publisher": "European Space Weather Week",
+      "location": "Zagreb, Croatia",
+      "startDate": "2022-10-24",
+      "endDate": "2022-10-28",
       "url": "",
-      "summary": ""
+      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data"
     },
     {
-      "name": "Machine Learning Pipeline for Automated Detection of Magnetospheric Boundaries",
-      "publisher": "Europlanet Science Congress (18–23 September 2022), Granada, Spain",
-      "releaseDate": "2022",
+      "name": "Conference Talk",
+      "publisher": "Europlanet Science Congress",
+      "location": "Granada, Spain",
+      "startDate": "2022-09-18",
+      "endDate": "2022-09-23",
       "url": "",
-      "summary": ""
+      "summary": "Machine Learning Pipeline for Automated Detection of Magnetospheric Boundaries"
     },
     {
-      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections",
-      "publisher": "EGU General Assembly (23–27 May 2022), Vienna, Austria",
-      "releaseDate": "2022",
+      "name": "Conference Talk",
+      "publisher": "EGU General Assembly",
+      "location": "Vienna, Austria",
+      "startDate": "2022-05-23",
+      "endDate": "2022-05-27",
       "url": "",
-      "summary": ""
+      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections"
     },
     {
-      "name": "Machine Learning Pipeline for Automated Detection of ICMEs",
-      "publisher": "Europlanet Science Congress (13–24 September 2021), Online",
-      "releaseDate": "2021",
+      "name": "Conference Talk",
+      "publisher": "Europlanet Science Congress",
+      "location": "Online",
+      "startDate": "2021-09-13",
+      "endDate": "2021-09-24",
       "url": "",
-      "summary": ""
+      "summary": "Machine Learning Pipeline for Automated Detection of ICMEs"
     }
   ]
 }
