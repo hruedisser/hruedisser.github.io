@@ -215,6 +215,62 @@
       "releaseDate": "2024",
       "url": "",
       "summary": ""
+    },
+    {
+      "name": "Modeling CMEs as Large Scale Magnetic Flux Ropes",
+      "publisher": "ÖGAA Austrian Early Career Conference (8–9 March 2024), Salzburg, Austria",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "3DCOREapp: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'",
+      "publisher": "European Space Weather Week (20–24 November 2023), Toulouse, France",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data",
+      "publisher": "EGU General Assembly (23–28 April 2023), Vienna, Austria",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections",
+      "publisher": "Machine Learning and Computer Vision in Heliophysics (19–21 April 2023), Sofia, Bulgaria",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data",
+      "publisher": "European Space Weather Week (24–28 October 2022), Zagreb, Croatia",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Machine Learning Pipeline for Automated Detection of Magnetospheric Boundaries",
+      "publisher": "Europlanet Science Congress (18–23 September 2022), Granada, Spain",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections",
+      "publisher": "EGU General Assembly (23–27 May 2022), Vienna, Austria",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Machine Learning Pipeline for Automated Detection of ICMEs",
+      "publisher": "Europlanet Science Congress (13–24 September 2021), Online",
+      "releaseDate": "2021",
+      "url": "",
+      "summary": ""
     }
   ]
 }
