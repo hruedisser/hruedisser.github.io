@@ -322,5 +322,88 @@
       "url": "",
       "summary": "Automatic Detection of ICMEs in Wind, STEREO A and STEREO B Data using Deep Neural Networks and Computer Vision Techniques"
     }
+  ],
+  "posters": [
+    {
+      "name": "Conference Poster",
+      "publisher": "European Space Weather Week",
+      "location": "Coimbra, Portugal",
+      "startDate": "2024-11-04",
+      "endDate": "2024-11-08",
+      "url": "",
+      "summary": "Automatic Realtime Detection of Large Scale Structures in Solar Wind In Situ Data"
+    },
+    {
+      "name": "Conference Poster",
+      "publisher": "European Space Weather Week",
+      "location": "Coimbra, Portugal",
+      "startDate": "2024-11-04",
+      "endDate": "2024-11-08",
+      "url": "",
+      "summary": "Early warning for Solar Eruptions with VIGIL 2.0"
+    },
+    {
+      "name": "Conference Poster",
+      "publisher": "EGU General Assembly",
+      "location": "Vienna, Austria",
+      "startDate": "2024-04-15",
+      "endDate": "2024-04-19",
+      "url": "",
+      "summary": "Understanding the effects of spacecraft trajectories through solar coronal mass ejection flux ropes using 3DCOREweb"
+    },
+    {
+      "name": "Conference Poster",
+      "publisher": "AGU Fall Meeting",
+      "location": "Online",
+      "startDate": "2022-12-12",
+      "endDate": "2024-12-16",
+      "url": "",
+      "summary": "Machine Learning for solving the Bz Problem in Space Weather Forecasting"
+    },
+    {
+      "name": "Conference Poster",
+      "publisher": "Europlanet Science Congress",
+      "location": "Granada, Spain",
+      "startDate": "2022-09-18",
+      "endDate": "2022-09-23",
+      "url": "",
+      "summary": "Automatic Detection and Classification of Boundary Crossings in Spacecraft in situ Data"
+    },
+    {
+      "name": "Conference Poster",
+      "publisher": "AGU Fall Meeting",
+      "location": "Online",
+      "startDate": "2021-12-13",
+      "endDate": "2021-12-17",
+      "url": "",
+      "summary": "Automatic Detection and Classification of Boundary Crossings in Spacecraft in situ Data"
+    },
+    {
+      "name": "Conference Poster",
+      "publisher": "AGU Fall Meeting",
+      "location": "Online",
+      "startDate": "2021-12-13",
+      "endDate": "2021-12-17",
+      "url": "",
+      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections"
+    },
+    {
+      "name": "Conference Poster",
+      "publisher": "Europlanet Science Congress",
+      "location": "Online",
+      "startDate": "2021-09-13",
+      "endDate": "2021-09-24",
+      "url": "",
+      "summary": "Automatic Detection and Classification of Boundary Crossings in Spacecraft in situ Data"
+    },
+    {
+      "name": "Conference Poster",
+      "publisher": "EGU General Assembly",
+      "location": "Online",
+      "startDate": "2021-04-19",
+      "endDate": "2021-04-30",
+      "url": "",
+      "summary": "Automatic Detection and Classification of ICMEs in Solar Wind Data"
+    }
   ]
 }
