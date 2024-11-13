@@ -119,6 +119,10 @@ layout: default
                 <h3 class="card-title font-weight-medium">Conference Posters</h3>
                 <div>
                     {% include resume/posters.liquid %}
+              {% when 'seminars' %}
+                <h3 class="card-title font-weight-medium">Seminar Talks</h3>
+                <div>
+                    {% include resume/seminars.liquid %}
               {% when 'languages' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
