@@ -143,6 +143,10 @@ layout: default
                 <h3 class="card-title font-weight-medium">Grants and Scholarships</h3>
                 <div>
                     {% include resume/scholarships.liquid %}
+              {% when 'summerschools' %}
+                <h3 class="card-title font-weight-medium">Summer Schools</h3>
+                <div>
+                    {% include resume/summerschools.liquid %}
               {% else %}
               {% endcase %}
             </div>
