@@ -454,5 +454,43 @@
       "url": "",
       "summary": "Convener: Ute Amerstorfer | Co-conveners: Mario D'Amore, Sahib Julka, Angelo Pio Rossi, Hannah Theresa Rüdisser"
     }
-  ]
+  ],
+  "summerschools": [
+    {
+      "name": "NASA’s Living with a Star Heliophysics Summer School 'Comparative Heliophysics'",
+      "publisher": "",
+      "location": "Boulder, CO USA",
+      "startDate": "2024-08-14",
+      "endDate": "2024-08-22",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Operational Space Weather Fundamentals",
+      "publisher": "",
+      "location": "L'Aquila, Italy",
+      "startDate": "2024-05-13",
+      "endDate": "2024-05-17",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "E-SWAN School 'Space Weather Data, Models and Services'",
+      "publisher": "",
+      "location": "Toulouse, France",
+      "startDate": "2023-11-17",
+      "endDate": "2023-11-19",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "NASA’s Living with a Star Heliophysics Summer School 'Observational Heliophysics'",
+      "publisher": "",
+      "location": "Online",
+      "startDate": "2022-07-17",
+      "endDate": "2022-07-21",
+      "url": "",
+      "summary": ""
+    }
+  ],
 }
