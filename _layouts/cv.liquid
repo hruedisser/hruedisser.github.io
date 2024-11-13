@@ -78,83 +78,69 @@ layout: default
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
-            {% when 'basics' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/basics.liquid %}
-            {% when 'education' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/education.liquid %}
-            {% when 'work' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/work.liquid %}
-            {% when 'volunteer' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/volunteer.liquid %}
-            {% when 'projects' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/projects.liquid %}
-            {% when 'awards' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/awards.liquid %}
-            {% when 'skills' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/skills.liquid %}
-            {% when 'talks' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/talks.liquid %}
-            {% when 'sessions' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  <h3 class="card-title font-weight-medium">Session Convening</h3>
-                  {% include resume/sessions.liquid %}
-            {% when 'posters' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/posters.liquid %}
-            {% when 'languages' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/languages.liquid %}
-            {% when 'interests' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/interests.liquid %}
-            {% when 'certificates' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/certificates.liquid %}
-            {% when 'references' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/references.liquid %}
-            {% when 'scholarships' %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-              <div>
-                {% case data[0] %}
-                  {% include resume/scholarships.liquid %}
-            {% else %}
+            {% case data[0] %}
+              {% when 'basics' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/basics.liquid %}
+              {% when 'education' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/education.liquid %}
+              {% when 'work' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/work.liquid %}
+              {% when 'volunteer' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/volunteer.liquid %}
+              {% when 'projects' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/projects.liquid %}
+              {% when 'awards' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/awards.liquid %}
+              {% when 'skills' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/skills.liquid %}
+              {% when 'talks' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/talks.liquid %}
+              {% when 'sessions' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    <h3 class="card-title font-weight-medium">Session Convening</h3>
+                    {% include resume/sessions.liquid %}
+              {% when 'posters' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/posters.liquid %}
+              {% when 'languages' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/languages.liquid %}
+              {% when 'interests' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/interests.liquid %}
+              {% when 'certificates' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/certificates.liquid %}
+              {% when 'references' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/references.liquid %}
+              {% when 'scholarships' %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <div>
+                    {% include resume/scholarships.liquid %}
+              {% else %}
               {% endcase %}
             </div>
           </div>
