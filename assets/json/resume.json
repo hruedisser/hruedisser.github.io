@@ -210,200 +210,158 @@
   ],
   "talks": [
     {
-      "name": "Seminar Talk",
-      "publisher": "ST-ECS Networking Campfire ",
-      "location": "Online",
-      "startDate": "2024-11-15",
-      "url": "",
-      "summary": "How to convene a scientific session"
-    },
-    {
-      "name": "Conference Talk",
+      "name": "3DCOREweb: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'",
       "publisher": "Triennial Earth-Sun Summit (TESS)",
       "location": "Dallas, TX USA",
       "startDate": "2024-04-07",
       "endDate": "2024-04-12",
-      "url": "",
-      "summary": "3DCOREweb: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'"
     },
     {
-      "name": "Conference Talk",
+      "name": "Modeling CMEs as Large Scale Magnetic Flux Ropes",
       "publisher": "ÖGAA Austrian Early Career Conference",
       "location": "Salzburg, Austria",
       "startDate": "2024-03-08",
       "endDate": "2024-03-09",
-      "url": "",
-      "summary": "Modeling CMEs as Large Scale Magnetic Flux Ropes"
     },
     {
-      "name": "Conference Talk",
+      "name": "3DCOREapp: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'",
       "publisher": "European Space Weather Week",
       "location": "Toulouse, France",
       "startDate": "2023-11-20",
       "endDate": "2023-11-24",
-      "url": "",
-      "summary": "3DCOREapp: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'"
     },
     {
-      "name": "Conference Talk",
+      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data",
       "publisher": "EGU General Assembly",
       "location": "Vienna, Austria",
       "startDate": "2023-04-23",
       "endDate": "2023-04-28",
-      "url": "",
-      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data"
     },
     {
-      "name": "Conference Talk",
+      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections",
       "publisher": "Machine Learning and Computer Vision in Heliophysics",
       "location": "Sofia, Bulgaria",
       "startDate": "2023-04-19",
       "endDate": "2023-04-21",
-      "url": "",
-      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections"
     },
     {
-      "name": "Seminar Talk",
-      "publisher": "Neural Networks 2, FH Joanneum",
-      "location": "Graz, Austria",
-      "startDate": "2023-01-27",
-      "url": "",
-      "summary": "Time Series Event Detection"
-    },
-    {
-      "name": "Conference Talk",
+      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data",
       "publisher": "European Space Weather Week",
       "location": "Zagreb, Croatia",
       "startDate": "2022-10-24",
       "endDate": "2022-10-28",
-      "url": "",
-      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data"
     },
     {
-      "name": "Conference Talk",
+      "name": "Machine Learning Pipeline for Automated Detection of Magnetospheric Boundaries",
       "publisher": "Europlanet Science Congress",
       "location": "Granada, Spain",
       "startDate": "2022-09-18",
       "endDate": "2022-09-23",
-      "url": "",
-      "summary": "Machine Learning Pipeline for Automated Detection of Magnetospheric Boundaries"
     },
     {
-      "name": "Conference Talk",
+      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections",
       "publisher": "EGU General Assembly",
       "location": "Vienna, Austria",
       "startDate": "2022-05-23",
       "endDate": "2022-05-27",
-      "url": "",
-      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections"
     },
     {
-      "name": "Seminar Talk",
-      "publisher": "Machine Learning in Heliophysics – Trailblazers in Graz, Space Research Institute, Austrian Academy of Sciences, Graz, Austria",
-      "location": "Online",
-      "startDate": "2022-04-21",
-      "url": "",
-      "summary": "Automatic Detection of ICMEs in Solar Wind Data"
-    },
-    {
-      "name": "Conference Talk",
+      "name": "Machine Learning Pipeline for Automated Detection of ICMEs",
       "publisher": "Europlanet Science Congress",
       "location": "Online",
       "startDate": "2021-09-13",
       "endDate": "2021-09-24",
-      "url": "",
-      "summary": "Machine Learning Pipeline for Automated Detection of ICMEs"
+    },
+  ],
+  "seminars": [
+    {
+      "name": "How to convene a scientific session",
+      "publisher": "ST-ECS Networking Campfire ",
+      "location": "Online",
+      "startDate": "2024-11-15",
     },
     {
-      "name": "Seminar Talk",
+      "name": "Time Series Event Detection",
+      "publisher": "Neural Networks 2, FH Joanneum",
+      "location": "Graz, Austria",
+      "startDate": "2023-01-27",
+    },
+    {
+      "name": "Automatic Detection of ICMEs in Solar Wind Data",
+      "publisher": "Machine Learning in Heliophysics – Trailblazers in Graz, Space Research Institute, Austrian Academy of Sciences, Graz, Austria",
+      "location": "Online",
+      "startDate": "2022-04-21",
+    },
+    {
+      "name": "Automatic Detection of ICMEs in Wind, STEREO A and STEREO B Data using Deep Neural Networks and Computer Vision Techniques",
       "publisher": "Solar Orbiter Science Working Group",
       "location": "Online",
       "startDate": "2021-06-07",
-      "url": "",
-      "summary": "Automatic Detection of ICMEs in Wind, STEREO A and STEREO B Data using Deep Neural Networks and Computer Vision Techniques"
     }
   ],
   "posters": [
     {
-      "name": "Conference Poster",
+      "name": "Automatic Realtime Detection of Large Scale Structures in Solar Wind In Situ Data",
       "publisher": "European Space Weather Week",
       "location": "Coimbra, Portugal",
       "startDate": "2024-11-04",
       "endDate": "2024-11-08",
-      "url": "",
-      "summary": "Automatic Realtime Detection of Large Scale Structures in Solar Wind In Situ Data"
     },
     {
-      "name": "Conference Poster",
+      "name": "Early warning for Solar Eruptions with VIGIL 2.0",
       "publisher": "European Space Weather Week",
       "location": "Coimbra, Portugal",
       "startDate": "2024-11-04",
       "endDate": "2024-11-08",
-      "url": "",
-      "summary": "Early warning for Solar Eruptions with VIGIL 2.0"
     },
     {
-      "name": "Conference Poster",
+      "name": "Understanding the effects of spacecraft trajectories through solar coronal mass ejection flux ropes using 3DCOREweb",
       "publisher": "EGU General Assembly",
       "location": "Vienna, Austria",
       "startDate": "2024-04-15",
       "endDate": "2024-04-19",
-      "url": "",
-      "summary": "Understanding the effects of spacecraft trajectories through solar coronal mass ejection flux ropes using 3DCOREweb"
     },
     {
-      "name": "Conference Poster",
+      "name": "Machine Learning for solving the Bz Problem in Space Weather Forecasting",
       "publisher": "AGU Fall Meeting",
       "location": "Online",
       "startDate": "2022-12-12",
       "endDate": "2024-12-16",
-      "url": "",
-      "summary": "Machine Learning for solving the Bz Problem in Space Weather Forecasting"
     },
     {
-      "name": "Conference Poster",
+      "name": "Automatic Detection and Classification of Boundary Crossings in Spacecraft in situ Data",
       "publisher": "Europlanet Science Congress",
       "location": "Granada, Spain",
       "startDate": "2022-09-18",
       "endDate": "2022-09-23",
-      "url": "",
-      "summary": "Automatic Detection and Classification of Boundary Crossings in Spacecraft in situ Data"
     },
     {
-      "name": "Conference Poster",
+      "name": "Automatic Detection and Classification of Boundary Crossings in Spacecraft in situ Data",
       "publisher": "AGU Fall Meeting",
       "location": "Online",
       "startDate": "2021-12-13",
       "endDate": "2021-12-17",
-      "url": "",
-      "summary": "Automatic Detection and Classification of Boundary Crossings in Spacecraft in situ Data"
     },
     {
-      "name": "Conference Poster",
+      "name": "Automatic Detection of Interplanetary Coronal Mass Ejections",
       "publisher": "AGU Fall Meeting",
       "location": "Online",
       "startDate": "2021-12-13",
       "endDate": "2021-12-17",
-      "url": "",
-      "summary": "Automatic Detection of Interplanetary Coronal Mass Ejections"
     },
     {
-      "name": "Conference Poster",
+      "name": "Automatic Detection and Classification of Boundary Crossings in Spacecraft in situ Data",
       "publisher": "Europlanet Science Congress",
       "location": "Online",
       "startDate": "2021-09-13",
       "endDate": "2021-09-24",
-      "url": "",
-      "summary": "Automatic Detection and Classification of Boundary Crossings in Spacecraft in situ Data"
     },
     {
-      "name": "Conference Poster",
+      "name": "Automatic Detection and Classification of ICMEs in Solar Wind Data",
       "publisher": "EGU General Assembly",
       "location": "Online",
       "startDate": "2021-04-19",
       "endDate": "2021-04-30",
-      "url": "",
-      "summary": "Automatic Detection and Classification of ICMEs in Solar Wind Data"
     }
   ],
   "sessions": [
