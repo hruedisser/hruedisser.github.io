@@ -108,7 +108,7 @@ layout: default
                 <div>
                     {% include resume/skills.liquid %}
               {% when 'talks' %}
-                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <h3 class="card-title font-weight-medium">Conference Talks</h3>
                 <div>
                     {% include resume/talks.liquid %}
               {% when 'sessions' %}
@@ -116,7 +116,7 @@ layout: default
                 <div>
                     {% include resume/sessions.liquid %}
               {% when 'posters' %}
-                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <h3 class="card-title font-weight-medium">Conference Posters</h3>
                 <div>
                     {% include resume/posters.liquid %}
               {% when 'languages' %}
@@ -136,7 +136,7 @@ layout: default
                 <div>
                     {% include resume/references.liquid %}
               {% when 'scholarships' %}
-                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                <h3 class="card-title font-weight-medium">Grants and Scholarships</h3>
                 <div>
                     {% include resume/scholarships.liquid %}
               {% else %}
