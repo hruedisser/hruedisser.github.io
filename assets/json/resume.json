@@ -493,5 +493,32 @@
       "url": "",
       "summary": ""
     }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "icon": "fa-solid fa-rocket",
+      "keywords": [
+        "Heliophysics",
+        "Space Weather",
+        "Coronal Mass Ejections",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science"
+      ]
+    },
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-paw",
+      "keywords": [
+        "Animals",
+        "Equestrianism",
+        "Outdoor Activities",
+        "Traveling",
+        "Salsa",
+        "Music",
+        "Literature"
+      ]
+    }
   ]
 }
