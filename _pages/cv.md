@@ -7,5 +7,5 @@ nav_order: 5
 description:
 toc:
   sidebar: left
-cv_pdf: CV_ruedisser_aug24.pdf
+cv_pdf: CV_ruedisser.pdf
 ---
