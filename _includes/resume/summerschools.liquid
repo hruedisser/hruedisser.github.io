@@ -6,9 +6,9 @@
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
           {% if content.startDate %}
-            {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
+            {% assign startDate = content.startDate %}
             {% if content.endDate %}
-              {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' %}
+              {% assign endDate = content.endDate %}
               {% assign date = startDate | append: ' - ' | append: endDate %}
             {% else %}
               {% assign date = startDate %}
