@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 nav: true
-nav_order: 6
+nav_order: 5
 display_categories: [science, etc]
 horizontal: false
 ---
