@@ -7,7 +7,7 @@ importance: 1
 category: science
 ---
 
-I took part in FDL Europe as a researcher in 2024.
+I took part in FDL Europe as a researcher in 2024. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,4 +30,13 @@ I took part in FDL Europe as a researcher in 2024.
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
+</div>
+
+<div class="linkedin-post">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7210621801725386752" 
+            height="400" 
+            width="100%" 
+            frameborder="0" 
+            allowfullscreen="" 
+            title="LinkedIn Post"></iframe>
 </div>
