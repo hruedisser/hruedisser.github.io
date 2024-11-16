@@ -5,7 +5,7 @@ description: Early warning for Solar Eruptions with VIGIL
 img: assets/img/project1/badge-vigil.png
 importance: 1
 category: science
-related_publications: false
+related_publications: true
 ---
 
 I took part in FDL Europe as a researcher in 2024.
