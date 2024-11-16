@@ -75,7 +75,9 @@ layout: default
               {% continue %}
             {% endunless %}
           {% endif %}
-          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
+          {% if data[0] == 'meta' or data[1].size == 0 %}
+            {% continue %}
+          {% endif %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
             {% case data[0] %}
@@ -87,69 +89,84 @@ layout: default
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/education.liquid %}
+                </div>
               {% when 'work' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/work.liquid %}
+                </div>
               {% when 'volunteer' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/volunteer.liquid %}
+                </div>
               {% when 'projects' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/projects.liquid %}
+                </div>
               {% when 'awards' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/awards.liquid %}
+                </div>
               {% when 'skills' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/skills.liquid %}
+                </div>
               {% when 'talks' %}
                 <h3 class="card-title font-weight-medium">Conference Talks</h3>
                 <div>
                     {% include resume/talks.liquid %}
+                </div>
               {% when 'sessions' %}
                 <h3 class="card-title font-weight-medium">Session Convening</h3>
                 <div>
                     {% include resume/sessions.liquid %}
+                </div>
               {% when 'posters' %}
                 <h3 class="card-title font-weight-medium">Conference Posters</h3>
                 <div>
                     {% include resume/posters.liquid %}
+                </div>
               {% when 'seminars' %}
                 <h3 class="card-title font-weight-medium">Seminar Talks</h3>
                 <div>
                     {% include resume/seminars.liquid %}
+                </div>
               {% when 'languages' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/languages.liquid %}
+                </div>
               {% when 'interests' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/interests.liquid %}
+                </div>
               {% when 'certificates' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/certificates.liquid %}
+                </div>
               {% when 'references' %}
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                 <div>
                     {% include resume/references.liquid %}
+                </div>
               {% when 'scholarships' %}
                 <h3 class="card-title font-weight-medium">Grants and Scholarships</h3>
                 <div>
                     {% include resume/scholarships.liquid %}
+                </div>
               {% when 'summerschools' %}
                 <h3 class="card-title font-weight-medium">Summer Schools</h3>
                 <div>
                     {% include resume/summerschools.liquid %}
+                </div>
               {% else %}
               {% endcase %}
-            </div>
           </div>
         {% endfor %}
       </div>
