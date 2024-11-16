@@ -520,5 +520,46 @@
         "Literature"
       ]
     }
+  ],
+  "projects": [
+    {
+      "name": "Podcast: 'Durchgeplant und Durchgedreht - Der Pferdepodcast'",
+      "summary": "In this podcast, we share our everyday lives with horses, including stories about training, competitions, and running an open stable. As two friends with a shared passion for riding, we explore the challenges and joys of working with horses, from raising foals to navigating the unexpected moments that come with equestrian life. It's a glimpse into a world filled with dedication, learning, and the unique bond between humans and animals.",
+      "highlights": [],
+      "startDate": "2024-10-01",
+      "url": "https://creators.spotify.com/pod/show/durchgeplantdurchgedreht"
+    },
+    {
+      "name": "ESN Buddy Program",
+      "summary": "Providing guidance and support for international students in Graz.",
+      "highlights": [],
+      "startDate": "2018-09-01",
+      "endDate": "2019-02-01",
+      "url": ""
+    },
+    {
+      "name": "Launch of a Weather Balloon to Stratosphere",
+      "summary": "Student project on performing measurements in the stratosphere using a weather balloon.",
+      "highlights": [],
+      "startDate": "2018-03-01",
+      "endDate": "2018-11-01",
+      "url": ""
+    },
+    {
+      "name": "Junior Company 'lumin[ø]'",
+      "summary": "Founding the JUNIOR Company lumin[ø] within Junior Achievement Austria.",
+      "highlights": [],
+      "startDate": "2013-09-01",
+      "endDate": "2014-07-01",
+      "url": ""
+    },
+    {
+      "name": "Mediation and Conflict Management",
+      "summary": "Member of the organization for mediation and conflict management in high school.",
+      "highlights": [],
+      "startDate": "2013-03-01",
+      "endDate": "2015-05-01",
+      "url": ""
+    }
   ]
 }
