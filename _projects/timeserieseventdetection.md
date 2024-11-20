@@ -29,10 +29,10 @@ Based on previous work, I am currently working on the improvement of the **ARCAN
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img src="/assets/img/project2/scores.png" alt="In Situ Reconstruction" class="img-fluid rounded z-depth-1" style="height: 220px; width: auto;">
+        <img src="/assets/img/project2/scores.png" alt="Scores" class="img-fluid rounded z-depth-1" style="height: 220px; width: auto;">
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        <img src="/assets/img/project3/perevent.png" alt="3D Reconstruction" class="img-fluid rounded z-depth-1 small-img" style="height: 220px; width: auto;">
+        <img src="/assets/img/project3/perevent.png" alt="Results per Event" class="img-fluid rounded z-depth-1 small-img" style="height: 220px; width: auto;">
     </div>
 </div>
 <div class="caption">
