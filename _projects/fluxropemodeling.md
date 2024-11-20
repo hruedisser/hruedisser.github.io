@@ -2,7 +2,7 @@
 layout: page
 title: Flux Rope Modeling
 description: Advancing CME Forecast using the 3D Coronal Rope Ejection Model
-img: /assets/img/project2/3dcore_visual_en.png
+img: /assets/img/project2/badge3dcore.png
 importance: 2
 category: science
 related_publications: true
