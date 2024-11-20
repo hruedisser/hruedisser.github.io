@@ -48,6 +48,3 @@ I developed a **graphical user interface (GUI)** for 3DCORE, available via <a hr
 
 At the **Austrian Space Weather Office**, I integrated 3DCORE into the **real-time prediction pipeline** for operational CME forecasting. Additionally, we are working on **short-term forecasts**, another critical application of the model. My involvement in several collaborative papers has further refined the model’s use for event analysis  (e.g. {% cite submittedzhuang %}, {% cite submittedweiler %}, {% cite 2024ApJ...973...51D %}, {% cite 2023ApJ...955..152L %}).
 
-This work contributes to my PhD project, titled **"Combining AI and Physical Models to Advance Forecasting of Solar Coronal Mass Ejections"**, under the ERC project <a href="https://helioforecast.space/erc_helio4cast" target="_blank">HELIO4CAST</a>**"", which attempts to solve the **Bz problem** in heliospheric space weather forecasting. 
-
-By enhancing 3DCORE and its applications, I aim to advance our understanding of CMEs and their potential impact on Earth.
