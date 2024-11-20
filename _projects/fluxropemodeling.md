@@ -35,4 +35,15 @@ The model includes parameters such as the CME’s launch velocity, magnetic deca
 
 <h2>Advancements and Applications</h2>
 
-I developed a **graphical user interface (GUI)** for 3DCORE, available via <a href="https://github.com/hruedisser/3DCOREweb" target="_blank">GitHub</a>, to make it accessible to the broader scientific community. This tool facilitates both event reconstructions and analysis, as well as forward modeling. 3DCOREweb and its applications are detailed in my publication ({% cite 2024ApJ...973..150R %}), where it was used to study **trajectory effects** and the global magnetic field structure of CMEs.
+I developed a **graphical user interface (GUI)** for 3DCORE, available via <a href="https://github.com/hruedisser/3DCOREweb" target="_blank">GitHub</a>, to make it accessible to the broader scientific community. This tool facilitates both event reconstructions and analysis, as well as forward modeling. 3DCOREweb and its applications are detailed in my publication {% cite 2024ApJ...973..150R %}, where it was used to study **trajectory effects** and the global magnetic field structure of CMEs.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        <img src="/assets/img/project2/webinterface.jpg" alt="3DCOREweb Graphical User Interface" class="img-fluid rounded z-depth-1" style="height: auto; width: auto;">
+    </div>
+</div>
+<div class="caption">
+    3DCOREweb Graphical User Interface
+</div>
+
+At the **Austrian Space Weather Office**, I integrated 3DCORE into the **real-time prediction pipeline** for operational CME forecasting. Additionally, we are working on **short-term forecasts**, another critical application of the model. My involvement in several collaborative papers has further refined the model’s use for event analysis {% cite submittedzhuang, submittedweiler, 2024ApJ...973...51D, 2023ApJ...955..152L %}).
