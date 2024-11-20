@@ -24,5 +24,7 @@ $(document).ready(function () {
       .querySelector("d-hover-box")
       .shadowRoot.querySelector("style")
       .sheet.insertRule(".panel {border-color: var(--global-divider-color) !important;}");
+    cite.shadowRoot.querySelector("style").sheet.insertRule("::before {content: '';}");
+    cite.shadowRoot.querySelector("style").sheet.insertRule("::after {content: '';}");
   });
 });
