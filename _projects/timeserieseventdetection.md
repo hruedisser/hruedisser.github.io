@@ -28,11 +28,11 @@ The main approach is based on **supervised machine learning** and has been succe
 Based on previous work, I am currently working on the improvement of the **ARCANE** (**A**utomatic **R**ealtime dete**C**tion **AN**d for**E**cast) framework and integrating it into the **real-time prediction pipeline** at the <a href="https://helioforecast.space/" target="_blank">Austrian Space Weather Office</a>. ARCANE will serve as a real time monitor and contribute to automated operational forecasting. In collaboration with **Gautier Nguyen** at <a href="https://www.onera.fr/en" target="_blank">ONERA - The French Aerospace Lab</a>, we are advancing the use of this methodology for **early detection** of ICMEs and **prediction of key parameters**. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-2 mt-md-0">
-        <img src="/assets/img/project3/scores.png" alt="Scores" class="img-fluid rounded z-depth-1" style="height: 360px; width: auto;">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img src="/assets/img/project3/scores.png" alt="Scores" class="img-fluid rounded z-depth-1" style="height: 460px; width: auto;">
     </div>
-    <div class="col-sm-6 mt-2 mt-md-0">
-        <img src="/assets/img/project3/perevent.png" alt="Results per Event" class="img-fluid rounded z-depth-1 small-img" style="height: 360px; width: auto;">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img src="/assets/img/project3/perevent.png" alt="Results per Event" class="img-fluid rounded z-depth-1 small-img" style="height: 460px; width: auto;">
     </div>
 </div>
 <div class="caption">
