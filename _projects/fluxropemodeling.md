@@ -37,14 +37,18 @@ The model includes parameters such as the CME’s launch velocity, magnetic deca
 
 I developed a **graphical user interface (GUI)** for 3DCORE, available via <a href="https://github.com/hruedisser/3DCOREweb" target="_blank">GitHub</a>, to make it accessible to the broader scientific community. This tool facilitates both event reconstructions and analysis, as well as forward modeling. 3DCOREweb and its applications are detailed in my publication {% cite 2024ApJ...973..150R %}, where it was used to study **trajectory effects** and the global magnetic field structure of CMEs.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-12 mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm-12 mt-3 mt-md-0 d-flex justify-content-center">
         <img src="/assets/img/project2/webinterface.jpg" alt="3DCOREweb Graphical User Interface" class="img-fluid rounded z-depth-1" style="height: 400px; width: auto;">
     </div>
 </div>
-<div class="caption">
+<div class="caption text-center">
     3DCOREweb Graphical User Interface
 </div>
 
 At the **Austrian Space Weather Office**, I integrated 3DCORE into the **real-time prediction pipeline** for operational CME forecasting. Additionally, we are working on **short-term forecasts**, another critical application of the model. My involvement in several collaborative papers has further refined the model’s use for event analysis  (e.g. {% cite submittedzhuang %}, {% cite submittedweiler %}, {% cite 2024ApJ...973...51D %}, {% cite 2023ApJ...955..152L %}).
 
+This work is part of my PhD project, titled **Combining AI and Physical Models to Advance Forecasting of Solar Coronal Mass Ejections**, under the ERC project 
+<a href="https://helioforecast.space/erc_helio4cast" target="_blank">HELIO4CAST</a>, which attempts to solve the **Bz problem** in heliospheric space weather forecasting. 
+
+By enhancing 3DCORE and its applications, I aim to advance our understanding of CMEs and their potential impact on Earth.
