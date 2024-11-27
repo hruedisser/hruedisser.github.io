@@ -13,7 +13,7 @@ During my work at the <a href="https://www.know-center.at/en/" target="_blank">K
 - Automatic Detection of Interplanetary Coronal Mass Ejections in Solar Wind In Situ Data
 - Automatic Detection of Magnetospheric Boundaries
 
-In addition to a first-author publication {% cite 2022SpWea..2003149R %} and several conference contribution, this work also served as the basis of my master's thesis.
+In addition to a first-author publication {% cite 2022SpWea..2003149R %} and several conference contributions, this work also served as the basis of my master's thesis.
 
 The main approach is based on **supervised machine learning** and has been successfully applied to different datasets, such as **Wind, STEREO-A or STEREO-B.**
 
