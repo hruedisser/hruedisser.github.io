@@ -294,10 +294,26 @@
   ],
   "seminars": [
     {
+      "name": "Combining AI and Physical Models to Advance Forecasting of Solar Coronal Mass Ejections",
+      "publisher": "IRAP PEPS",
+      "location": "Toulouse, France",
+      "startDate": "2024-12-10",
+      "url": "",
+      "summary": ""
+    },
+    {
       "name": "How to convene a scientific session",
       "publisher": "ST-ECS Networking Campfire ",
       "location": "Online",
       "startDate": "2024-11-15",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Space Weather Forecast at the Austrian Space Weather Office",
+      "publisher": "ONERA DPHY-ERS Science",
+      "location": "Toulouse, France",
+      "startDate": "2024-10-24",
       "url": "",
       "summary": ""
     },
