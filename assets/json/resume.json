@@ -25,13 +25,13 @@
   },
   "work": [
     {
-      "name": "ONERA - The French Aerospace Lab, Toulouse, France",
-      "position": "Visiting Researcher",
-      "url": "https://www.onera.fr/en",
-      "startDate": "2024-09-01",
-      "endDate": "2024-12-17",
-      "summary": "",
-      "highlights": ["Supervisor: Gautier Nguyen"]
+      "name": "Austrian Space Weather Office, GeoSphere Austria, Graz, Austria",
+      "position": "PhD Student",
+      "url": "https://helioforecast.space",
+      "startDate": "2022-10-01",
+      "endDate": "",
+      "summary": "Combining AI and Physical Models to advance Forecasting of Solar Coronal Mass Ejections",
+      "highlights": ["Supervisors: Helmut Lammer, Christian Möstl", "ERC, HELIO4CAST, 101042188"]
     },
     {
       "name": "Frontier Development Lab (FDL) Europe - Earth Systems Lab 2024",
@@ -43,13 +43,13 @@
       "highlights": ["Trillium Technologies"]
     },
     {
-      "name": "Austrian Space Weather Office, GeoSphere Austria, Graz, Austria",
-      "position": "PhD Student",
-      "url": "https://helioforecast.space",
-      "startDate": "2022-10-01",
-      "endDate": "",
-      "summary": "Combining AI and Physical Models to advance Forecasting of Solar Coronal Mass Ejections",
-      "highlights": ["Supervisors: Helmut Lammer, Christian Möstl", "ERC, HELIO4CAST, 101042188"]
+      "name": "ONERA - The French Aerospace Lab, Toulouse, France",
+      "position": "Visiting Researcher",
+      "url": "https://www.onera.fr/en",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-17",
+      "summary": "",
+      "highlights": ["Supervisor: Gautier Nguyen"]
     },
     {
       "name": "Self-employed",
