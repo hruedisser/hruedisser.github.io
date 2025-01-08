@@ -1,10 +1,15 @@
 ---
 ---
 <div class="row">
-  {% if site.enable_publication_thumbnails %}
-    <div class="col col-sm-2 abbr">
-      {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
+  {%- if entry.abbr -%}
+        {%- if entry.abbr contains "Under Revision" -%}
+          <abbr
+            class="badge rounded w-100"
+            style="background-color: lightgrey;"
+          >
+            <div>{{- entry.abbr -}}</div>
+          </abbr>
+        {%- elsif site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr].color != blank %}
             {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
@@ -13,7 +18,7 @@
             class="badge rounded w-100"
             {% if venue_style %}
               {{ venue_style }}
-            {% endif -%}
+            {% endif %}
           >
             {% if site.data.venues[entry.abbr].url %}
               <a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a>
@@ -21,10 +26,10 @@
               <div>{{- entry.abbr -}}</div>
             {% endif %}
           </abbr>
-        {% else %}
+        {%- else -%}
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
-      {% endif %}
+      {%- endif -%}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
