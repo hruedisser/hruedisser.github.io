@@ -1,9 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Under Revision":
+  color: "#808080"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
 
-"Vision":
-  color: "#009f36"
+"Space Weather":
+  url: https://agupubs.onlinelibrary.wiley.com/journal/15427390
+
+"JATIS":
+  url: https://www.spiedigitallibrary.org/journals/journal-of-astronomical-telescopes-instruments-and-systems
+
+"SolPhys":
+  url: https://link.springer.com/journal/11207
