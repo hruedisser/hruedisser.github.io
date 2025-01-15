@@ -428,12 +428,21 @@
   "sessions": [
     {
       "name": "Machine Learning in Planetary Sciences and Heliophysics",
+      "publisher": "EGU General Assembly | ESSI1.11, Co-organized by PS7/ST4",
+      "location": "Vienna, Austria",
+      "startDate": "2025-04-27",
+      "endDate": "2025-05-02",
+      "url": "",
+      "summary": "Convener: Justin Le Louëdec (ECS) | Co-conveners: Hannah Theresa Rüdisser (ECS), Gautier Nguyen (ECS)"
+    },
+    {
+      "name": "Machine Learning in Planetary Sciences and Heliophysics",
       "publisher": "EGU General Assembly | ESSI1.5, Co-organized by PS4/ST1",
       "location": "Vienna, Austria",
       "startDate": "2024-04-15",
       "endDate": "2024-04-19",
       "url": "",
-      "summary": "Convener: Hannah Theresa Rüdisser (ECS) | Co-conveners: Justin Le Louëdec (ECS), Ute Amerstorfer, Simon Bouriat (ECS)"
+      "summary": "Convener: Hannah Theresa Rüdisser (ECS) | Co-conveners: Justin Le Louëdec (ECS), Ute V. Amerstorfer, Simon Bouriat (ECS)"
     },
     {
       "name": "Machine Learning in Planetary Sciences and Heliophysics",
@@ -442,7 +451,7 @@
       "startDate": "2023-04-23",
       "endDate": "2023-04-28",
       "url": "",
-      "summary": "Convener: Ute Amerstorfer | Co-conveners: Hannah Theresa Rüdisser (ECS), Sahib Julka (ECS), Mario D'Amore, Günter Kargl"
+      "summary": "Convener: Ute V. Amerstorfer | Co-conveners: Hannah Theresa Rüdisser (ECS), Sahib Julka (ECS), Mario D'Amore, Günter Kargl"
     },
     {
       "name": "Machine Learning in Planetary Sciences",
@@ -451,7 +460,7 @@
       "startDate": "2022-09-18",
       "endDate": "2022-09-23",
       "url": "",
-      "summary": "Convener: Ute Amerstorfer | Co-conveners: Sahib Julka, Hannah Theresa Rüdisser, Mario D'Amore, Angelo Pio Rossi"
+      "summary": "Convener: Ute V. Amerstorfer | Co-conveners: Sahib Julka, Hannah Theresa Rüdisser, Mario D'Amore, Angelo Pio Rossi"
     },
     {
       "name": "Machine Learning in Planetary Sciences and Heliophysics",
@@ -460,7 +469,7 @@
       "startDate": "2022-04-23",
       "endDate": "2022-04-27",
       "url": "",
-      "summary": "Convener: Ute Amerstorfer | Co-conveners: Sahib Julka (ECS), Hannah Theresa Rüdisser (ECS), Mario D'Amore, Angelo Pio Rossi"
+      "summary": "Convener: Ute V. Amerstorfer | Co-conveners: Sahib Julka (ECS), Hannah Theresa Rüdisser (ECS), Mario D'Amore, Angelo Pio Rossi"
     },
     {
       "name": "Machine Learning in Planetary Sciences",
@@ -469,7 +478,7 @@
       "startDate": "2022-09-13",
       "endDate": "2022-09-24",
       "url": "",
-      "summary": "Convener: Ute Amerstorfer | Co-conveners: Mario D'Amore, Sahib Julka, Angelo Pio Rossi, Hannah Theresa Rüdisser"
+      "summary": "Convener: Ute V. Amerstorfer | Co-conveners: Mario D'Amore, Sahib Julka, Angelo Pio Rossi, Hannah Theresa Rüdisser"
     }
   ],
   "summerschools": [
