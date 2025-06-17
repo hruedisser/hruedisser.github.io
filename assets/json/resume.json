@@ -537,6 +537,25 @@
       "summary": ""
     }
   ],
+  
+  "outreach": [
+    {
+      "name": "Künstliche Intelligenz im Weltraumwetter: Automatische Erkennung von Sonnenstürmen",
+      "publisher": "Pint of Science Festival",
+      "location": "Graz, Austria",
+      "startDate": "2025-05-21",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Solar Storms - Predicting the Unpredictable",
+      "publisher": "Three Minute Thesis Competition",
+      "location": "Graz, Austria",
+      "startDate": "2025-03-14",
+      "url": "",
+      "summary": ""
+    }
+  ],
   "interests": [
     {
       "name": "Research",
