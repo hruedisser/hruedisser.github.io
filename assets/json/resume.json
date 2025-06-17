@@ -185,7 +185,7 @@
       "date": "2024",
       "awarder": "Faculty of Natural Sciences at the University of Graz",
       "url": "",
-      "summary": "Received a Scholarship for Travel Expenses by the Faculty of Natural Sciences at the University of Graz (2024, 3504€)"
+      "summary": "Received a Scholarship for Travel Expenses by the Faculty of Natural Sciences at the University of Graz (2024, 3600€)"
     },
     {
       "title": "Grant for Self-Organized Stays",
@@ -209,7 +209,25 @@
       "summary": "Received a 3.5 fully funded PhD Studentship within a Consolidator Grant by the European Research Council (PI Christian Möstl)"
     }
   ],
-  "talks": [
+  "talks": [    
+    {
+      "name": "ARCANE: An Operational Framework for Automatic Realtime ICME Detection in Solar Wind In Situ Data (Highlight)",
+      "publisher": "EGU General Assembly",
+      "location": "Vienna, Austria",
+      "startDate": "2023-04-27",
+      "endDate": "2023-05-02",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "ARCANE: An Operational Framework for Automatic Realtime ICME Detection in Solar Wind In Situ Data",
+      "publisher": "Machine Learning and Computer Vision in Heliophysics",
+      "location": "Sofia, Bulgaria",
+      "startDate": "2025-04-07",
+      "endDate": "2025-04-09",
+      "url": "",
+      "summary": ""
+    },
     {
       "name": "3DCOREweb: Reconstruct CMEs using the '3D Coronal Rope Ejection Model'",
       "publisher": "Triennial Earth-Sun Summit (TESS)",
