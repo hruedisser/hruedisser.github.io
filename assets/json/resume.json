@@ -214,8 +214,17 @@
       "name": "ARCANE: An Operational Framework for Automatic Realtime ICME Detection in Solar Wind In Situ Data (Highlight)",
       "publisher": "EGU General Assembly",
       "location": "Vienna, Austria",
-      "startDate": "2023-04-27",
-      "endDate": "2023-05-02",
+      "startDate": "2025-04-27",
+      "endDate": "2025-05-02",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Enhancing Space Weather Forecasting with Machine Learning at the Austrian Space Weather Office",
+      "publisher": "RAS - Advancing Space Weather Forecasting: Bridging Gaps in Machine Learning",
+      "location": "Helsinki, Finland",
+      "startDate": "2025-04-11",
+      "endDate": "2025-04-11",
       "url": "",
       "summary": ""
     },
@@ -361,6 +370,15 @@
     }
   ],
   "posters": [
+    {
+      "name": "ARCANE: An Operational Framework for Automatic Realtime ICME Detection in Solar Wind In Situ Data",
+      "publisher": "SWATNet Final Conference",
+      "location": "Helsinki, Finland",
+      "startDate": "2025-02-10",
+      "endDate": "2025-02-14",
+      "url": "",
+      "summary": ""
+    },
     {
       "name": "Automatic Realtime Detection of Large Scale Structures in Solar Wind In Situ Data",
       "publisher": "European Space Weather Week",
