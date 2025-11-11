@@ -181,6 +181,20 @@
   ],
   "scholarships": [
     {
+      "title": "ML-Helio Early Career Award",
+      "date": "2025",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Grant for Travel Expenses",
+      "date": "2025",
+      "awarder": "Machine Learning in Heliophysics 2025, Madrid, Spain",
+      "url": "",
+      "summary": "Received a Grant to attend a conference (2025, 1000$)"
+    },
+    {
       "title": "Scholarship for Travel Expenses",
       "date": "2024",
       "awarder": "Faculty of Natural Sciences at the University of Graz",
@@ -320,6 +334,46 @@
     }
   ],
   "seminars": [
+    {
+      "name": "Artificial Intelligence in Space Weather Forecasting",
+      "publisher": "Exner Lectures 2025",
+      "location": "Vienna, Austria",
+      "startDate": "2025-11-19",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Die stürmische Seite der Sonne",
+      "publisher": "GeoSphere Podcast - Mehr als Wind und Wetter",
+      "location": "Umeå, Sweden",
+      "startDate": "2025-11-05",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Scientific outlooks for analysis of space weather data in the age of AI",
+      "publisher": "TDM13 – European Space Weather Week 2025",
+      "location": "Umeå, Sweden",
+      "startDate": "2025-10-30",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Künstliche Intelligenz im Weltraumwetter: Automatische Erkennung von Sonnenstürmen",
+      "publisher": "Pint of Science Festival",
+      "location": "Graz, Austria",
+      "startDate": "2025-05-21",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Solar Storms - Predicting the Unpredictable",
+      "publisher": "Three Minute Thesis Competition",
+      "location": "Graz, Austria",
+      "startDate": "2025-03-14",
+      "url": "",
+      "summary": ""
+    },
     {
       "name": "Combining AI and Physical Models to Advance Forecasting of Solar Coronal Mass Ejections",
       "publisher": "IRAP PEPS",
@@ -555,24 +609,6 @@
       "summary": ""
     }
   ],
-  "outreach": [
-    {
-      "name": "Künstliche Intelligenz im Weltraumwetter: Automatische Erkennung von Sonnenstürmen",
-      "publisher": "Pint of Science Festival",
-      "location": "Graz, Austria",
-      "startDate": "2025-05-21",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Solar Storms - Predicting the Unpredictable",
-      "publisher": "Three Minute Thesis Competition",
-      "location": "Graz, Austria",
-      "startDate": "2025-03-14",
-      "url": "",
-      "summary": ""
-    }
-  ],
   "interests": [
     {
       "name": "Research",
@@ -605,7 +641,8 @@
       "name": "Podcast: 'Durchgeplant und Durchgedreht - Der Pferdepodcast'",
       "summary": "In this podcast, we share our everyday lives with horses, including stories about training, competitions, and running a stable. As two friends with a shared passion for riding, we explore the challenges and joys of working with horses, from raising foals to navigating the unexpected moments that come with equestrian life. It's a glimpse into a world filled with dedication, learning, and the unique bond between humans and animals.",
       "highlights": [],
-      "startDate": "2024-10-01",
+      "startDate": "2024-10-18",
+      "endDate": "2024-04-07",
       "url": "https://creators.spotify.com/pod/show/durchgeplantdurchgedreht"
     },
     {
