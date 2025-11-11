@@ -225,6 +225,33 @@
   ],
   "talks": [    
     {
+      "name": "From Detection to Reconstruction: Combining Automatic Flux Rope Fitting and Real-Time ICME Detection for Operational Short-Term Forecasting",
+      "publisher": "European Space Weather Week",
+      "location": "Umeå, Sweden",
+      "startDate": "2025-10-27",
+      "endDate": "2025-10-31",
+      "url": "",
+      "summary": ""
+    },        
+    {
+      "name": "ARCANE: An Operational Framework for Automatic Realtime ICME Detection in Solar Wind In Situ Data",
+      "publisher": "Machine Learning in Heliophysics",
+      "location": "Madrid, Spain",
+      "startDate": "2025-09-22",
+      "endDate": "2025-09-26",
+      "url": "",
+      "summary": ""
+    },      
+    {
+      "name": "From Detection to Reconstruction: Combining Automatic Flux Rope Fitting and Real-Time ICME Detection for Operational Short-Term Forecasting",
+      "publisher": "XVIIIth Hvar Astrophysical Colloquium",
+      "location": "Hvar, Croatia",
+      "startDate": "2025-09-15",
+      "endDate": "2025-09-19",
+      "url": "",
+      "summary": ""
+    },    
+    {
       "name": "ARCANE: An Operational Framework for Automatic Realtime ICME Detection in Solar Wind In Situ Data (Highlight)",
       "publisher": "EGU General Assembly",
       "location": "Vienna, Austria",
