@@ -223,7 +223,16 @@
       "summary": "Received a 3.5 fully funded PhD Studentship within a Consolidator Grant by the European Research Council (PI Christian Möstl)"
     }
   ],
-  "talks": [    
+  "talks": [
+    {
+      "name": "Towards a fully automated end-to-end pipeline for short-term magnetic field forecasting",
+      "publisher": "EGU General Assembly",
+      "location": "Vienna, Austria",
+      "startDate": "2026-05-03",
+      "endDate": "2026-05-08",
+      "url": "",
+      "summary": ""
+    },        
     {
       "name": "From Detection to Reconstruction: Combining Automatic Flux Rope Fitting and Real-Time ICME Detection for Operational Short-Term Forecasting",
       "publisher": "European Space Weather Week",
@@ -362,6 +371,30 @@
   ],
   "seminars": [
     {
+      "name": "Sonnensturm & Kipferl - mit 3 Forscherinnen der GeoSphere Austria",
+      "publisher": "Podcast - Raumfahrtgeschichten",
+      "location": "Vienna, Austria",
+      "startDate": "2026-05-07",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure",
+      "publisher": "NASA LASSOS Working Group",
+      "location": "Online",
+      "startDate": "2026-03-09",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure",
+      "publisher": "Plasma Astrophysics Seminar – KU Leuven, Department of Mathematics",
+      "location": "Leuven, Belgium",
+      "startDate": "2026-02-13",
+      "url": "",
+      "summary": ""
+    },
+    {
       "name": "Artificial Intelligence in Space Weather Forecasting",
       "publisher": "Exner Lectures 2025",
       "location": "Vienna, Austria",
@@ -372,7 +405,7 @@
     {
       "name": "Die stürmische Seite der Sonne",
       "publisher": "GeoSphere Podcast - Mehr als Wind und Wetter",
-      "location": "Umeå, Sweden",
+      "location": "Online",
       "startDate": "2025-11-05",
       "url": "",
       "summary": ""
@@ -543,6 +576,15 @@
     }
   ],
   "sessions": [
+    {
+      "name": "Machine Learning in Planetary Sciences and Heliophysics",
+      "publisher": "EGU General Assembly | ESSI1.18, Co-organized by PS7/ST4",
+      "location": "Vienna, Austria",
+      "startDate": "2026-05-03",
+      "endDate": "2026-05-08",
+      "url": "",
+      "summary": "Convener: Justin Le Louëdec (ECS) | Co-conveners: Hannah Theresa Rüdisser (ECS), Gautier Nguyen (ECS)"
+    },
     {
       "name": "Machine Learning in Planetary Sciences and Heliophysics",
       "publisher": "EGU General Assembly | ESSI1.11, Co-organized by PS7/ST4",
